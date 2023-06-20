@@ -17,7 +17,7 @@ export const PageLayout = ({ bgImage, type, ...props }: IPageLayout) => {
           backgroundPosition: "center",
           opacity: "0.8",
         }}
-        className="absolute w-full h-full top-0 left-0 items-center justify-center z-0"
+        className="bg-mainBlue fixed w-full h-full top-0 left-0 items-center justify-center z-0 max-h-[100vh]"
       ></div>
       <PageHeader />
       <div

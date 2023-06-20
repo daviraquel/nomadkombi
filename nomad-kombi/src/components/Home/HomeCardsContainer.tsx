@@ -5,11 +5,12 @@ import { HomeCard } from "./HomeCard"
 
 interface IHomeCardContainer extends React.HTMLAttributes<HTMLDivElement> {}
 
-export const HomeCardContainer = ({ ...props }: IHomeCardContainer) => {
+export const HomeCardsContainer = ({ ...props }: IHomeCardContainer) => {
   const { t } = useTranslation()
   return (
     <div>
       <HomeCard
+        link={"/crew"}
         img=""
         title={t("HomeCard1Title")}
         text="CONHECA A TRIPULAÇÂO"

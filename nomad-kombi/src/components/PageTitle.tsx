@@ -8,7 +8,9 @@ interface IPageTitle extends React.HTMLAttributes<HTMLElement> {
 
 export const PageTitle = ({ text, noBar, noShadow, ...props }: IPageTitle) => {
   return (
-    <h1 className={`${props.className} md:text-2xl lg:text-3xl font-bold mt-4`}>
+    <h1
+      className={`${props.className} text-white md:text-2xl lg:text-3xl font-bold mt-4`}
+    >
       {text}
     </h1>
   )
