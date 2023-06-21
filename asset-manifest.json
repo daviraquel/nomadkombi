@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nomadkombi/static/css/main.668794c6.css",
-    "main.js": "/nomadkombi/static/js/main.9f823dfd.js",
+    "main.css": "/nomadkombi/static/css/main.c7469f66.css",
+    "main.js": "/nomadkombi/static/js/main.21cc1f09.js",
     "static/media/mike1.jpeg": "/nomadkombi/static/media/mike1.819f5f6d6fda750c3a94.jpeg",
     "static/media/crew1.jpeg": "/nomadkombi/static/media/crew1.517f6526b2b4b20ecd2b.jpeg",
     "static/media/leia2.jpeg": "/nomadkombi/static/media/leia2.9935b2d120b76d0b7cab.jpeg",
@@ -10,15 +10,17 @@
     "static/media/carda2.jpeg": "/nomadkombi/static/media/carda2.0bd7fc56ac595c0e5d6d.jpeg",
     "static/media/marci2.jpeg": "/nomadkombi/static/media/marci2.99b556940cb9e9e6d4b0.jpeg",
     "static/media/marci1.jpeg": "/nomadkombi/static/media/marci1.585bf3d9b7eb58cdc65e.jpeg",
+    "static/media/cameradog.jpeg": "/nomadkombi/static/media/cameradog.68ccbcfe32eedc8e2d04.jpeg",
     "static/media/leia1.jpeg": "/nomadkombi/static/media/leia1.abcf7bc81156c59ffc1f.jpeg",
+    "static/media/ad.png": "/nomadkombi/static/media/ad.15ab554d602b62ea9c4f.png",
     "static/media/main-logo.png": "/nomadkombi/static/media/main-logo.ce53cd8f5a70076e434e.png",
     "index.html": "/nomadkombi/index.html",
     "static/media/getFetch.cjs": "/nomadkombi/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.668794c6.css.map": "/nomadkombi/static/css/main.668794c6.css.map",
-    "main.9f823dfd.js.map": "/nomadkombi/static/js/main.9f823dfd.js.map"
+    "main.c7469f66.css.map": "/nomadkombi/static/css/main.c7469f66.css.map",
+    "main.21cc1f09.js.map": "/nomadkombi/static/js/main.21cc1f09.js.map"
   },
   "entrypoints": [
-    "static/css/main.668794c6.css",
-    "static/js/main.9f823dfd.js"
+    "static/css/main.c7469f66.css",
+    "static/js/main.21cc1f09.js"
   ]
 }
