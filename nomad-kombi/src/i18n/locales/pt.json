@@ -3,6 +3,11 @@
     "HomeTitle": "Bem-vindo!",
     "HomeCard1Title": "Crew",
     "HomeCard1Text": "Conheça a tripulação",
+    "HomeCard2Title": "Media Channels",
+    "HomeCard2Text": "Watch, follow, like, subscribe, share",
+
+    "Partners": "Partners",
+    "PartnersText": "The ones that make it all possible",
 
     "CrewTitle": "Meet The Crew!",
     "Crew1Name": "Leia",
@@ -16,6 +21,14 @@
     "Crew3Text": "Doggo ipsum pats clouds. Sub woofer snoot shooberino heckin good boys waggy wags, very taste wow h*ck heckin good boys. Thicc smol borking doggo with a long snoot for pats very good spot blop, shibe most angery pupper I have ever seen. length boy heckin angery woofer heck. Pupper doing me a frighten woofer noodle horse doggo long woofer wow very biscit pupper h*ck, super chub heckin good boys ruff corgo boofers lotsa pats borking doggo. Long water shoob pats heckin good boys borking doggo waggy wags, blop ruff. I am bekom fat extremely cuuuuuute shoob big ol pupper the neighborhood pupper fluffer, heckin angery woofer clouds very good spot waggy wags, heck noodle horse extremely cuuuuuute most angery pupper I have ever seen.",
     "Crew4Name": "Cardã",
     "Crew4Title": "CameraDog & PR",
-    "Crew4Text": "Doggo ipsum pats clouds. Sub woofer snoot shooberino heckin good boys waggy wags, very taste wow h*ck heckin good boys. Thicc smol borking doggo with a long snoot for pats very good spot blop, shibe most angery pupper I have ever seen. length boy heckin angery woofer heck. Pupper doing me a frighten woofer noodle horse doggo long woofer wow very biscit pupper h*ck, super chub heckin good boys ruff corgo boofers lotsa pats borking doggo. Long water shoob pats heckin good boys borking doggo waggy wags, blop ruff. I am bekom fat extremely cuuuuuute shoob big ol pupper the neighborhood pupper fluffer, heckin angery woofer clouds very good spot waggy wags, heck noodle horse extremely cuuuuuute most angery pupper I have ever seen."
+    "Crew4Text": "Doggo ipsum pats clouds. Sub woofer snoot shooberino heckin good boys waggy wags, very taste wow h*ck heckin good boys. Thicc smol borking doggo with a long snoot for pats very good spot blop, shibe most angery pupper I have ever seen. length boy heckin angery woofer heck. Pupper doing me a frighten woofer noodle horse doggo long woofer wow very biscit pupper h*ck, super chub heckin good boys ruff corgo boofers lotsa pats borking doggo. Long water shoob pats heckin good boys borking doggo waggy wags, blop ruff. I am bekom fat extremely cuuuuuute shoob big ol pupper the neighborhood pupper fluffer, heckin angery woofer clouds very good spot waggy wags, heck noodle horse extremely cuuuuuute most angery pupper I have ever seen.",
+
+    "MediaTitle": "Social Media Channels",
+    "MediaCard1Title": "YouTube",
+    "MediaCard1Text": "Watch our videos",
+    "MediaCard2Title": "Instagram",
+    "MediaCard2Text": "Watch our videos",
+
+    "UnderDevTitle": "Sorry! Page under development."
   }
 }

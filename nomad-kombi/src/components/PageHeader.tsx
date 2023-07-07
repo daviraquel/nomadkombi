@@ -37,11 +37,11 @@ export const PageHeader = () => {
 
   const hamburguerItemClassName = "w-[32px] h-[6px] rounded-[3px] bg-white"
 
-  const navClassName = `fixed top-[60px] left-0 lg:block lg:relative lg:top-0`
+  const navClassName = `fixed top-[60px] left-0 lg:block lg:relative lg:top-0 w-full bg-mainBlueOp`
 
   return (
     <header className={`${bgColor} w-full h-[60px] relative z-50`}>
-      <div className="max-w-[1100px] h-full mx-auto flex items-center justify-center">
+      <div className="max-w-[1100px] h-full mx-auto flex items-center justify-between lg:justify-center">
         <img className="max-h-[60px] py-2" src={logo} alt="One Source" />
         <div
           id="hamburguer-container"
@@ -70,7 +70,7 @@ export const PageHeader = () => {
             <HeaderLink to="/" label="Home" />
             <HeaderLink to="/crew" label="Crew" />
             <HeaderLink to="/partners" label="Partners" />
-            <HeaderLink external to="https://www.youtube.com" label="YouTube" />
+            <HeaderLink to="/media" label="Media" />
             <LanguageSelector />
           </ul>
         </nav>

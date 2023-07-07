@@ -1,5 +1,7 @@
 import { useTranslation } from "react-i18next"
+
 import indexBackground from "../assets/img/bg/bg-home.jpg"
+
 import { PageLayout } from "../components/PageLayout"
 import { PageTitle } from "../components/PageTitle"
 
