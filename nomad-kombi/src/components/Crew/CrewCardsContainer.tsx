@@ -17,13 +17,14 @@ interface IHomeCardContainer extends React.HTMLAttributes<HTMLDivElement> {}
 export const CrewCardsContainer = ({ ...props }: IHomeCardContainer) => {
   const { t } = useTranslation()
   return (
-    <section className="px-12 flex flex-col gap-8 py-4">
+    <section className="px-4 lg:px-12 flex flex-col gap-8 py-4">
       <CrewCard
         name={t("Crew1Name")}
         title={t("Crew1Title")}
         text={t("Crew1Text")}
         img1={leia1}
         img2={leia2}
+        index="1"
       />
       <CrewCard
         name={t("Crew2Name")}
@@ -31,6 +32,7 @@ export const CrewCardsContainer = ({ ...props }: IHomeCardContainer) => {
         text={t("Crew2Text")}
         img1={marci1}
         img2={marci2}
+        index="2"
       />
       <CrewCard
         name={t("Crew3Name")}
@@ -38,6 +40,7 @@ export const CrewCardsContainer = ({ ...props }: IHomeCardContainer) => {
         text={t("Crew3Text")}
         img1={mike1}
         img2={mike1}
+        index="3"
       />
       <CrewCard
         name={t("Crew4Name")}
@@ -45,6 +48,7 @@ export const CrewCardsContainer = ({ ...props }: IHomeCardContainer) => {
         text={t("Crew4Text")}
         img1={carda1}
         img2={carda2}
+        index="4"
       />
     </section>
   )

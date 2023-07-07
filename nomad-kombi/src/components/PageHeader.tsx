@@ -37,12 +37,12 @@ export const PageHeader = () => {
 
   const hamburguerItemClassName = "w-[32px] h-[6px] rounded-[3px] bg-white"
 
-  const navClassName = `fixed top-[60px] left-0 lg:block lg:relative lg:top-0 w-full bg-mainBlueOp`
+  const navClassName = `fixed w-full top-[60px] left-0 lg:block lg:relative lg:top-0 bg-mainBlue`
 
   return (
     <header className={`${bgColor} w-full h-[60px] relative z-50`}>
       <div className="max-w-[1100px] h-full mx-auto flex items-center justify-between lg:justify-center">
-        <img className="max-h-[60px] py-2" src={logo} alt="One Source" />
+        <img className="max-h-[60px] py-2" src={logo} alt="No Mad Kombi Logo" />
         <div
           id="hamburguer-container"
           className="lg:hidden min-w-[40px] max-w-[30%] flex flex-col items-center gap-[4px]"

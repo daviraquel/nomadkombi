@@ -20,7 +20,7 @@ module.exports = {
         grayBgOp: "#95a5a6cc",
 
         mainBlue: "#6c9bc7",
-        mainBlueOp: "#6c9bc7ee",
+        mainBlueOp: "#6c9bc799",
         brightBlue: "#00bcff",
         brightBlueOp: "#00bcffcc",
         blue: "#0091df",

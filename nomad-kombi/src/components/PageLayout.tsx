@@ -21,7 +21,7 @@ export const PageLayout = ({ bgImage, type, ...props }: IPageLayout) => {
       ></div>
       <PageHeader />
       <div
-        className={`${props.className}  relative grow flex flex-col items-center justify-start w-full h-full z-10`}
+        className={`${props.className} max-w-[1400px] mx-auto relative grow flex flex-col items-center justify-start w-full h-full z-10`}
       >
         {props.children}
       </div>
