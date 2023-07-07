@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nomadkombi/static/css/main.30c01595.css",
-    "main.js": "/nomadkombi/static/js/main.b7ea2e20.js",
+    "main.css": "/nomadkombi/static/css/main.426f7f55.css",
+    "main.js": "/nomadkombi/static/js/main.d837548b.js",
     "static/media/mike1.jpeg": "/nomadkombi/static/media/mike1.819f5f6d6fda750c3a94.jpeg",
     "static/media/crew1.jpeg": "/nomadkombi/static/media/crew1.1c311d9be86fb7e7b1ce.jpeg",
     "static/media/leia2.jpeg": "/nomadkombi/static/media/leia2.9935b2d120b76d0b7cab.jpeg",
@@ -17,11 +17,11 @@
     "static/media/main-logo.png": "/nomadkombi/static/media/main-logo.ce53cd8f5a70076e434e.png",
     "index.html": "/nomadkombi/index.html",
     "static/media/getFetch.cjs": "/nomadkombi/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.30c01595.css.map": "/nomadkombi/static/css/main.30c01595.css.map",
-    "main.b7ea2e20.js.map": "/nomadkombi/static/js/main.b7ea2e20.js.map"
+    "main.426f7f55.css.map": "/nomadkombi/static/css/main.426f7f55.css.map",
+    "main.d837548b.js.map": "/nomadkombi/static/js/main.d837548b.js.map"
   },
   "entrypoints": [
-    "static/css/main.30c01595.css",
-    "static/js/main.b7ea2e20.js"
+    "static/css/main.426f7f55.css",
+    "static/js/main.d837548b.js"
   ]
 }
